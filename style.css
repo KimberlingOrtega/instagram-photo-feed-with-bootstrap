@@ -1,0 +1,13 @@
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: grey;
+}
+.nav-pills .nav-link{
+    background-color: #fff;
+    color: gray;
+}
+.type-fond{
+    font-family: 'Oleo Script', cursive;
+    margin-left: 2px;
+    font-size: 2rem;
+}
